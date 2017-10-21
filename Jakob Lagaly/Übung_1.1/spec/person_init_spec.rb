@@ -3,10 +3,7 @@ require "./lib/person.rb"
 
 describe "Person initialization" do
 
-  # remove the pendings one by one and implement the example
-
   it "should initialize it's attributes from a hash" do
-    pending
     attribute_hash =   {:name => 'Dagobert', :hobbies => 'Money'}
     p = Person.new(attribute_hash)
     expect(p.name).to eq "Dagobert"
@@ -14,7 +11,6 @@ describe "Person initialization" do
   end
 
   it "should raise an UnknownAttributeError if an attribute is unknown" do
-    pending
     argument_hash =   {:name => "Dagobert", :hobbies => "Money",:nonexistent_attribute => "some Value"}
     expect { p = Person.new(argument_hash) }.to raise_error(UnknownAttributeError)
   end
@@ -24,7 +20,6 @@ describe "Person initialization" do
   end
 
   it "should work with an existent arbitrary attribute of Person" do
-    pending
     random_attribute_name = (0...5).map { (97 + rand(26)).chr }.join
     RFN = random_attribute_name.to_sym
     class Person

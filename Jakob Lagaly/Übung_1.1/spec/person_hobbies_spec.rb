@@ -26,7 +26,6 @@ describe Person do
       expect(p1.commonHobbies(p2)).to eq ["Bathing"]
     end
     it "returns a list of best friends" do
-      #pending
       p1 = Person.new(name: "Hans",hobbies: "Diving")
       p2 = Person.new(name: "Dagobert1",hobbies: "Money,Bathing,Knitting")
       p3 = Person.new(name: "Dagobert2",hobbies: "Money,Bathing")

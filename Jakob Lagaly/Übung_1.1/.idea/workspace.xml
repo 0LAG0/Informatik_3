@@ -16,44 +16,58 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/lab_01_ruby_exercise@All_tests_in_spec__lab_01_ruby_exercise.coverage" NAME="All tests in spec: lab-01-ruby-exercise Coverage Results" MODIFIED="1508563088558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lab-01-ruby-exercise" />
-    <SUITE FILE_PATH="coverage/lab_01_ruby_exercise@Run_spec__person_init_spec___lab_01_ruby_exercise.coverage" NAME="Run spec 'person_init_spec': lab-01-ruby-exercise Coverage Results" MODIFIED="1508563160622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lab-01-ruby-exercise" />
-    <SUITE FILE_PATH="coverage/lab_01_ruby_exercise@Run_spec__person_hobbies_spec___lab_01_ruby_exercise.coverage" NAME="Run spec 'person_hobbies_spec': lab-01-ruby-exercise Coverage Results" MODIFIED="1508575629787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lab-01-ruby-exercise" />
+    <SUITE FILE_PATH="coverage/lab_01_ruby_exercise@Run_spec__person_hobbies_spec___lab_01_ruby_exercise.coverage" NAME="Run spec 'person_hobbies_spec': lab-01-ruby-exercise Coverage Results" MODIFIED="1508582377766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lab-01-ruby-exercise" />
+    <SUITE FILE_PATH="coverage/lab_01_ruby_exercise@Run_spec__person_init_spec___lab_01_ruby_exercise.coverage" NAME="Run spec 'person_init_spec': lab-01-ruby-exercise Coverage Results" MODIFIED="1508582400767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lab-01-ruby-exercise" />
+    <SUITE FILE_PATH="coverage/lab_01_ruby_exercise@Person_initialization_should_raise_an_UnknownAttributeError_if_an_attribute_is_unknown__lab_01_ruby_exercise.coverage" NAME="Person initialization should raise an UnknownAttributeError if an attribute is unknown: lab-01-ruby-exercise Coverage Results" MODIFIED="1508580134391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lab-01-ruby-exercise" />
     <SUITE FILE_PATH="coverage/lab_01_ruby_exercise@All_tests_in_lab_01_ruby_exercise__lab_01_ruby_exercise.coverage" NAME="All tests in lab-01-ruby-exercise: lab-01-ruby-exercise Coverage Results" MODIFIED="1508523589206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lab-01-ruby-exercise" />
     <SUITE FILE_PATH="coverage/lab_01_ruby_exercise@IRB_console__lab_01_ruby_exercise.coverage" NAME="IRB console: lab-01-ruby-exercise Coverage Results" MODIFIED="1508522185264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lab-01-ruby-exercise" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="person_init_spec.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spec/person_init_spec.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-90">
-              <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="person_hobbies_spec.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spec/person_hobbies_spec.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="person.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/person.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" column="84" lean-forward="false" selection-start-line="34" selection-start-column="84" selection-end-line="34" selection-end-column="84" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5112827">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="person.rb" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/lib/person.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="629">
+                  <caret line="40" column="4" lean-forward="true" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="17" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="person_hobbies_spec.rb" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/spec/person_hobbies_spec.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="459">
+                  <caret line="27" column="42" lean-forward="false" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="person_init_spec.rb" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/spec/person_init_spec.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="51">
+                  <caret line="3" column="35" lean-forward="false" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,9 +75,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/lib/person.rb" />
         <option value="$PROJECT_DIR$/spec/person_init_spec.rb" />
         <option value="$PROJECT_DIR$/spec/person_hobbies_spec.rb" />
-        <option value="$PROJECT_DIR$/lib/person.rb" />
       </list>
     </option>
   </component>
@@ -136,7 +150,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="RSpec.Run spec 'person_hobbies_spec': lab-01-ruby-exercise">
+  <component name="RunManager" selected="RSpec.Run spec 'person_init_spec': lab-01-ruby-exercise">
     <configuration name="All tests in lab-01-ruby-exercise: lab-01-ruby-exercise" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest" temporary="true">
       <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
       <module name="lab-01-ruby-exercise" />
@@ -185,20 +199,33 @@
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
     </configuration>
-    <configuration name="IRB console: lab-01-ruby-exercise" type="IrbRunConfigurationType" factoryName="IRB console" temporary="true">
+    <configuration name="Person initialization should raise an UnknownAttributeError if an attribute is unknown: lab-01-ruby-exercise" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
       <module name="lab-01-ruby-exercise" />
-      <IRB_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <IRB_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <IRB_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <IRB_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <IRB_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <IRB_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$APPLICATION_HOME_DIR$/rb/testing/runner/irb.rb" />
-      <IRB_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="--prompt simple" />
-      <IRB_RUN_CONFIG NAME="IS_RAILS_CONSOLE" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/person_init_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Person initialization should raise an UnknownAttributeError if an attribute is unknown" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
     </configuration>
     <configuration name="Run spec 'person_hobbies_spec': lab-01-ruby-exercise" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
       <predefined_log_file id="RUBY_RSPEC" enabled="true" />
@@ -258,18 +285,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.All tests in lab-01-ruby-exercise: lab-01-ruby-exercise" />
-      <item index="1" class="java.lang.String" itemvalue="IRB console.IRB console: lab-01-ruby-exercise" />
-      <item index="2" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.All tests in spec: lab-01-ruby-exercise" />
-      <item index="3" class="java.lang.String" itemvalue="RSpec.Run spec 'person_hobbies_spec': lab-01-ruby-exercise" />
-      <item index="4" class="java.lang.String" itemvalue="RSpec.Run spec 'person_init_spec': lab-01-ruby-exercise" />
+      <item index="1" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.All tests in spec: lab-01-ruby-exercise" />
+      <item index="2" class="java.lang.String" itemvalue="RSpec.Run spec 'person_hobbies_spec': lab-01-ruby-exercise" />
+      <item index="3" class="java.lang.String" itemvalue="RSpec.Run spec 'person_init_spec': lab-01-ruby-exercise" />
+      <item index="4" class="java.lang.String" itemvalue="RSpec.Person initialization should raise an UnknownAttributeError if an attribute is unknown: lab-01-ruby-exercise" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="RSpec.Run spec 'person_hobbies_spec': lab-01-ruby-exercise" />
-        <item index="1" class="java.lang.String" itemvalue="RSpec.Run spec 'person_init_spec': lab-01-ruby-exercise" />
-        <item index="2" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.All tests in spec: lab-01-ruby-exercise" />
-        <item index="3" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.All tests in lab-01-ruby-exercise: lab-01-ruby-exercise" />
-        <item index="4" class="java.lang.String" itemvalue="IRB console.IRB console: lab-01-ruby-exercise" />
+        <item index="0" class="java.lang.String" itemvalue="RSpec.Run spec 'person_init_spec': lab-01-ruby-exercise" />
+        <item index="1" class="java.lang.String" itemvalue="RSpec.Run spec 'person_hobbies_spec': lab-01-ruby-exercise" />
+        <item index="2" class="java.lang.String" itemvalue="RSpec.Person initialization should raise an UnknownAttributeError if an attribute is unknown: lab-01-ruby-exercise" />
+        <item index="3" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.All tests in spec: lab-01-ruby-exercise" />
+        <item index="4" class="java.lang.String" itemvalue="Test::Unit/Shoulda/Minitest.All tests in lab-01-ruby-exercise: lab-01-ruby-exercise" />
       </list>
     </recent_temporary>
   </component>
@@ -287,49 +314,50 @@
       <workItem from="1508520996684" duration="1482000" />
       <workItem from="1508522496380" duration="669000" />
       <workItem from="1508523180436" duration="431000" />
-      <workItem from="1508562203372" duration="13247000" />
+      <workItem from="1508562203372" duration="19375000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Run_spec_'person_hobbies_spec'__lab-01-ruby-exercise - 2017.10.21 at 10h 39m 07s.xml">
+    <history-entry file="Run_spec_'person_hobbies_spec'__lab-01-ruby-exercise - 2017.10.21 at 12h 37m 11s.xml">
       <configuration name="Run spec 'person_hobbies_spec': lab-01-ruby-exercise" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_spec_'person_hobbies_spec'__lab-01-ruby-exercise - 2017.10.21 at 10h 40m 49s.xml">
+    <history-entry file="Run_spec_'person_hobbies_spec'__lab-01-ruby-exercise - 2017.10.21 at 12h 38m 44s.xml">
       <configuration name="Run spec 'person_hobbies_spec': lab-01-ruby-exercise" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_spec_'person_hobbies_spec'__lab-01-ruby-exercise - 2017.10.21 at 10h 43m 13s.xml">
+    <history-entry file="Run_spec_'person_hobbies_spec'__lab-01-ruby-exercise - 2017.10.21 at 12h 38m 53s.xml">
       <configuration name="Run spec 'person_hobbies_spec': lab-01-ruby-exercise" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_spec_'person_hobbies_spec'__lab-01-ruby-exercise - 2017.10.21 at 10h 43m 52s.xml">
+    <history-entry file="Run_spec_'person_hobbies_spec'__lab-01-ruby-exercise - 2017.10.21 at 12h 39m 26s.xml">
       <configuration name="Run spec 'person_hobbies_spec': lab-01-ruby-exercise" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_spec_'person_hobbies_spec'__lab-01-ruby-exercise - 2017.10.21 at 10h 44m 13s.xml">
+    <history-entry file="Run_spec_'person_hobbies_spec'__lab-01-ruby-exercise - 2017.10.21 at 12h 39m 38s.xml">
       <configuration name="Run spec 'person_hobbies_spec': lab-01-ruby-exercise" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_spec_'person_hobbies_spec'__lab-01-ruby-exercise - 2017.10.21 at 10h 44m 41s.xml">
-      <configuration name="Run spec 'person_hobbies_spec': lab-01-ruby-exercise" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Run_spec_'person_init_spec'__lab-01-ruby-exercise - 2017.10.21 at 12h 34m 33s.xml">
+      <configuration name="Run spec 'person_init_spec': lab-01-ruby-exercise" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_spec_'person_hobbies_spec'__lab-01-ruby-exercise - 2017.10.21 at 10h 44m 59s.xml">
-      <configuration name="Run spec 'person_hobbies_spec': lab-01-ruby-exercise" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Run_spec_'person_init_spec'__lab-01-ruby-exercise - 2017.10.21 at 12h 34m 40s.xml">
+      <configuration name="Run spec 'person_init_spec': lab-01-ruby-exercise" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_spec_'person_hobbies_spec'__lab-01-ruby-exercise - 2017.10.21 at 10h 45m 25s.xml">
-      <configuration name="Run spec 'person_hobbies_spec': lab-01-ruby-exercise" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Run_spec_'person_init_spec'__lab-01-ruby-exercise - 2017.10.21 at 12h 37m 04s.xml">
+      <configuration name="Run spec 'person_init_spec': lab-01-ruby-exercise" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_spec_'person_hobbies_spec'__lab-01-ruby-exercise - 2017.10.21 at 10h 46m 47s.xml">
-      <configuration name="Run spec 'person_hobbies_spec': lab-01-ruby-exercise" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Run_spec_'person_init_spec'__lab-01-ruby-exercise - 2017.10.21 at 12h 39m 42s.xml">
+      <configuration name="Run spec 'person_init_spec': lab-01-ruby-exercise" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Run_spec_'person_hobbies_spec'__lab-01-ruby-exercise - 2017.10.21 at 10h 47m 10s.xml">
-      <configuration name="Run spec 'person_hobbies_spec': lab-01-ruby-exercise" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="Run_spec_'person_init_spec'__lab-01-ruby-exercise - 2017.10.21 at 12h 40m 01s.xml">
+      <configuration name="Run spec 'person_init_spec': lab-01-ruby-exercise" configurationId="RSpecRunConfigurationType" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15829000" />
+    <option name="totallyTimeSpent" value="21957000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12291667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -338,7 +366,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42857143" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30421376" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -444,26 +472,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/person_hobbies_spec.rb">
+    <entry file="file://$PROJECT_DIR$/lib/person.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        <state relative-caret-position="629">
+          <caret line="40" column="4" lean-forward="true" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/person_init_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-90">
-          <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="34" />
+        <state relative-caret-position="51">
+          <caret line="3" column="35" lean-forward="false" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/person.rb">
+    <entry file="file://$PROJECT_DIR$/spec/person_hobbies_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="84" lean-forward="false" selection-start-line="34" selection-start-column="84" selection-end-line="34" selection-end-column="84" />
+        <state relative-caret-position="459">
+          <caret line="27" column="42" lean-forward="false" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
           <folding />
         </state>
       </provider>
