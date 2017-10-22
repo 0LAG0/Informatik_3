@@ -18,6 +18,13 @@ class Person
   end
 
   def initialize(attributes = {})
+    key_array = attributes.keys
+    attr_array = Person.public_instance_methods(false).select {|m|
+      Person.public_instance_method(m).arity.zero?
+    }
+    if (key_array - attr_array).size > 0
+      raise UnknownAttributeError
+    end
     attributes.each {|key, value| send "#{key}=", value}
   end
 
@@ -40,4 +47,7 @@ class Person
     end
     return result
   end
+end
+class UnknownAttributeError < StandardError
+
 end
