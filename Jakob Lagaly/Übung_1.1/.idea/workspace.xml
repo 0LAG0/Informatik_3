@@ -31,8 +31,8 @@
           <file leaf-file-name="person.rb" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lib/person.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="544">
-                  <caret line="32" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="49" selection-end-column="3" />
+                <state relative-caret-position="238">
+                  <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
                   <folding />
                 </state>
               </provider>
@@ -89,7 +89,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="356" />
     <option name="y" value="-10" />
     <option name="width" value="1400" />
@@ -317,7 +317,7 @@
       <workItem from="1508666004788" duration="4079000" />
       <workItem from="1508670102295" duration="22000" />
       <workItem from="1508670136476" duration="495000" />
-      <workItem from="1508679420841" duration="1368000" />
+      <workItem from="1508679420841" duration="1566000" />
     </task>
     <servers />
   </component>
@@ -354,10 +354,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30944000" />
+    <option name="totallyTimeSpent" value="31142000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15104167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -613,8 +613,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/person.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="49" selection-end-column="3" />
+        <state relative-caret-position="238">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
           <folding />
         </state>
       </provider>
