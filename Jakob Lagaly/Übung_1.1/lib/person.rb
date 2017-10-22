@@ -47,5 +47,4 @@ class Person
   end
 end
 class UnknownAttributeError < StandardError
-
 end
