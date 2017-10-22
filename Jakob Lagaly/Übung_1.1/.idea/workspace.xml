@@ -15,8 +15,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Übung_1_1@Run_spec__person_init_spec___lab_01_ruby_exercise.coverage" NAME="Run spec 'person_init_spec': lab-01-ruby-exercise Coverage Results" MODIFIED="1508670116307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lab-01-ruby-exercise" />
-    <SUITE FILE_PATH="coverage/Übung_1_1@Run_spec__person_hobbies_spec___lab_01_ruby_exercise.coverage" NAME="Run spec 'person_hobbies_spec': lab-01-ruby-exercise Coverage Results" MODIFIED="1508670120123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lab-01-ruby-exercise" />
+    <SUITE FILE_PATH="coverage/Übung_1_1@Run_spec__person_init_spec___lab_01_ruby_exercise.coverage" NAME="Run spec 'person_init_spec': lab-01-ruby-exercise Coverage Results" MODIFIED="1508670556922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lab-01-ruby-exercise" />
+    <SUITE FILE_PATH="coverage/Übung_1_1@Run_spec__person_hobbies_spec___lab_01_ruby_exercise.coverage" NAME="Run spec 'person_hobbies_spec': lab-01-ruby-exercise Coverage Results" MODIFIED="1508670561141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lab-01-ruby-exercise" />
     <SUITE FILE_PATH="coverage/lab_01_ruby_exercise@All_tests_in_spec__lab_01_ruby_exercise.coverage" NAME="All tests in spec: lab-01-ruby-exercise Coverage Results" MODIFIED="1508563088558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lab-01-ruby-exercise" />
     <SUITE FILE_PATH="coverage/lab_01_ruby_exercise@Run_spec__person_hobbies_spec___lab_01_ruby_exercise.coverage" NAME="Run spec 'person_hobbies_spec': lab-01-ruby-exercise Coverage Results" MODIFIED="1508582377766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lab-01-ruby-exercise" />
     <SUITE FILE_PATH="coverage/lab_01_ruby_exercise@Run_spec__person_init_spec___lab_01_ruby_exercise.coverage" NAME="Run spec 'person_init_spec': lab-01-ruby-exercise Coverage Results" MODIFIED="1508582400767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lab-01-ruby-exercise" />
@@ -31,8 +31,8 @@
           <file leaf-file-name="person.rb" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lib/person.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="330">
-                  <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+                <state relative-caret-position="-340">
+                  <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
                   <folding />
                 </state>
               </provider>
@@ -79,7 +79,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="356" />
     <option name="y" value="-10" />
     <option name="width" value="1400" />
@@ -100,8 +100,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,6 +116,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -306,15 +306,13 @@
       <workItem from="1508594375183" duration="209000" />
       <workItem from="1508666004788" duration="4079000" />
       <workItem from="1508670102295" duration="22000" />
+      <workItem from="1508670136476" duration="436000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Run_spec_'person_hobbies_spec'__lab-01-ruby-exercise - 2017.10.22 at 13h 02m 00s.xml">
+    <history-entry file="Run_spec_'person_hobbies_spec'__lab-01-ruby-exercise - 2017.10.22 at 13h 09m 21s.xml">
       <configuration name="Run spec 'person_hobbies_spec': lab-01-ruby-exercise" configurationId="RSpecRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Run_spec_'person_init_spec'__lab-01-ruby-exercise - 2017.10.22 at 13h 00m 11s.xml">
-      <configuration name="Run spec 'person_init_spec': lab-01-ruby-exercise" configurationId="RSpecRunConfigurationType" />
     </history-entry>
     <history-entry file="Run_spec_'person_init_spec'__lab-01-ruby-exercise - 2017.10.22 at 13h 00m 12s.xml">
       <configuration name="Run spec 'person_init_spec': lab-01-ruby-exercise" configurationId="RSpecRunConfigurationType" />
@@ -340,12 +338,16 @@
     <history-entry file="Run_spec_'person_init_spec'__lab-01-ruby-exercise - 2017.10.22 at 13h 01m 57s.xml">
       <configuration name="Run spec 'person_init_spec': lab-01-ruby-exercise" configurationId="RSpecRunConfigurationType" />
     </history-entry>
+    <history-entry file="Run_spec_'person_init_spec'__lab-01-ruby-exercise - 2017.10.22 at 13h 09m 17s.xml">
+      <configuration name="Run spec 'person_init_spec': lab-01-ruby-exercise" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29081000" />
+    <option name="totallyTimeSpent" value="29517000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15104167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -356,7 +358,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30421376" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30421376" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -377,6 +379,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lib/person.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/person_init_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/person.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -568,8 +586,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/person.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+        <state relative-caret-position="-340">
+          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
           <folding />
         </state>
       </provider>

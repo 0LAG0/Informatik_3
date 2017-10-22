@@ -1,6 +1,4 @@
 class Person
-  attr_accessor :name, :hobbies
-
   def name
     @name
   end
