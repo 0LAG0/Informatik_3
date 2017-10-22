@@ -31,8 +31,8 @@
           <file leaf-file-name="person.rb" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lib/person.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="789">
-                  <caret line="48" column="43" lean-forward="false" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
+                <state relative-caret-position="544">
+                  <caret line="32" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="49" selection-end-column="3" />
                   <folding />
                 </state>
               </provider>
@@ -317,7 +317,7 @@
       <workItem from="1508666004788" duration="4079000" />
       <workItem from="1508670102295" duration="22000" />
       <workItem from="1508670136476" duration="495000" />
-      <workItem from="1508679420841" duration="837000" />
+      <workItem from="1508679420841" duration="1368000" />
     </task>
     <servers />
   </component>
@@ -354,7 +354,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30413000" />
+    <option name="totallyTimeSpent" value="30944000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -613,8 +613,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/person.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="789">
-          <caret line="48" column="43" lean-forward="false" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
+        <state relative-caret-position="544">
+          <caret line="32" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="49" selection-end-column="3" />
           <folding />
         </state>
       </provider>
