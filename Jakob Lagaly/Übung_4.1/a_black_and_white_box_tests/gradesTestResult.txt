@@ -1,0 +1,43 @@
+Enter your numeric grades as percentages one per line  and end with a negative number:
+96
+91
+86
+81
+76
+71
+66
+61
+56
+51
+46
+41
+36
+31
+26
+21
+16
+11
+6
+1
+-1
+Letter grade: A
+Letter grade: A
+Letter grade: B
+Letter grade: B
+Letter grade: B
+Letter grade: C
+Letter grade: C
+Letter grade: C
+Letter grade: D
+Letter grade: D
+Letter grade: F
+Letter grade: F
+Letter grade: F
+Letter grade: F
+Letter grade: F
+Letter grade: F
+Letter grade: F
+Letter grade: F
+Letter grade: F
+Letter grade: F
+-1

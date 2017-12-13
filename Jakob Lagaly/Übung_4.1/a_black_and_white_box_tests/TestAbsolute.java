@@ -2,9 +2,9 @@
  * Created by LAPTOP on 05.12.2017.
  */
 
-import org.junit.*;
+import org.junit.jupiter.api.Test;
 
-import static org.junit.Assert.assertTrue;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class TestAbsolute {
     public static int absoluteValueOf(int x) {

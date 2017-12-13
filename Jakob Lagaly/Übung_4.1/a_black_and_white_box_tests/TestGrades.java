@@ -1,9 +1,15 @@
 import org.junit.*;
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class TestGrades {
     public static void main(String[] args) {
-        for(int i= 0; i<101;i++){
-            System.out.println();
-        }
+        new GradingScale();
+    }
+
+    @Test
+    public void test1() {
+
     }
 }
