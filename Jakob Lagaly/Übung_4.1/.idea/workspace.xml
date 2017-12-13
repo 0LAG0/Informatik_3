@@ -198,7 +198,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.42496285" />
@@ -689,7 +689,7 @@
       <workItem from="1512468481459" duration="90000" />
       <workItem from="1513178015414" duration="24000" />
       <workItem from="1513178985197" duration="2946000" />
-      <workItem from="1513182842097" duration="668000" />
+      <workItem from="1513182842097" duration="978000" />
     </task>
     <servers />
   </component>
@@ -708,7 +708,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6908000" />
+    <option name="totallyTimeSpent" value="7218000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
