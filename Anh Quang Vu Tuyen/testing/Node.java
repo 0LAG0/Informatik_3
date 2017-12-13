@@ -1,51 +1,40 @@
 package testing;
 
-public class Node<E> {
+public class Node<T> {
 
-	Node<E> next;
+    public T data;
+    public Node next;
+    public Node prev;
 
-	E data;
+    public Node(T data) {
+        this.data = data;
+    }
 
-	public Node(E data, Node<E> next) {
+    public void setData(T data) {
+        this.data = data;
+    }
 
-		this.data = data;
+    public void setNext(Node next) {
+        this.next = next;
+    }
 
-		this.next = next;
+    public void setPrev(Node prev) {
+        this.prev = prev;
+    }
 
-	}
+    public T getData() {
+        return data;
+    }
 
-	public Node(E data) {
+    public Node getNext() {
+        return next;
+    }
 
-		this.data = data;
+    public Node getPrev() {
+        return prev;
+    }
 
-	}
+    public Node() {
 
-	public String toString() {
-
-		if (next == null)
-
-			return data.toString();
-
-		else
-
-			return data.toString() + ", " + next.toString();
-
-	}
-
-	public static Node<String> fromString(String string) {
-
-		String[] content = string.split(",");
-
-		Node<String> result = null;
-
-		for (int i = content.length - 1; i >= 0; i--) {
-
-			result = new Node<String>(content[i].trim(), result);
-
-		}
-
-		return result;
-
-	}
-
+    }
 }
