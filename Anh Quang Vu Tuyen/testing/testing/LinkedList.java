@@ -9,7 +9,7 @@ public class LinkedList<E> {
     }
 
     public void add(testing.Node<E> node) {
-        current = 
+        current =
         if (current == null) {
             current = node;
             return;
