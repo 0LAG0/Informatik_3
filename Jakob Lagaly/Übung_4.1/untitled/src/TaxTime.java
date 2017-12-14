@@ -51,8 +51,7 @@ public class TaxTime {
 //     check number of family members
 
        if (nFamilyMembers <= 0) {
-          System.out.println("Did you forget to count yourself?");
-          System.out.println ("Start over.");
+          System.out.println("Did you forget to count");
           System.exit (-1);
           }
 
