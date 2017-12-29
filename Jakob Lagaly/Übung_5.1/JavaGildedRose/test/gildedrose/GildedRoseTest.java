@@ -32,8 +32,8 @@ public class GildedRoseTest {
 	int quality;
 	int expectedSellIn;
 	int expectedQuality;
-
 	Item item;
+	GildedRose guild = new GildedRose();
 
 	public GildedRoseTest(String message, String itemName, int sellIn,
 			int quality, int expectedSellIn, int expectedQuality) {
@@ -54,13 +54,13 @@ public class GildedRoseTest {
 
 	@Test
 	public void testQualityUpdate() {
-		GildedRose.updateQuality();
+		guild.updateQuality();
 		assertEquals(message + " Quality ", expectedQuality, item.getQuality());
 	}
 
 	@Test
 	public void testSellInUpdate() {
-		GildedRose.updateQuality();
+		guild.updateQuality();
 		assertEquals(message + " SellIn", expectedSellIn, item.getSellIn());
 	}
 	
