@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author kleinen
- *
- */
-package gildedrose;
