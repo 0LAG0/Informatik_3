@@ -20,80 +20,54 @@ public class GildedRoseTest {
     public static Collection<Object[]> data() {
         Collection<Object[]> data = new ArrayList<Object[]>();
         data.addAll(Arrays
-                .asList(new Object[][]{{"At the end of each day our system lowers both quality and sell-in for every item",
-                        "Item with arbitrary name", 5, 49, 4, 48},
-                        {"At the end of each day our system lowers both quality and sell-in for every item",
-                                "+5 Dexterity Vest", 10, 20, 9, 19},
-
+                .asList(new Object[][]{
                         // Cheese
-                        {"At the end of each day our system lowers both quality and sell-in for every item",
-                                "Aged Brie", 17, 0, 16, 1},
+                        // test if quality increases
+                        {"test", "Aged Brie", 17, 0, 16, 1},
                         // test if quality doesnt exceed 50 (and corrects it)
-                        {"At the end of each day our system lowers both quality and sell-in for every item",
-                                "Aged Brie", 17, 51, 16, 50},
+                        {"test", "Aged Brie", 17, 51, 16, 50},
 
                         // Elixir
                         // test if both sellin and quality decreases
-                        {"At the end of each day our system lowers both quality and sell-in for every item",
-                                "Elixir of the Mongoose", 5, 7, 4, 6},
+                        {"test", "Elixir of the Mongoose", 5, 7, 4, 6},
                         // test if quality stays 0 if the sellin date is negative
-                        {"At the end of each day our system lowers both quality and sell-in for every item",
-                                "Elixir of the Mongoose", -1, 0, -2, 0},
+                        {"test", "Elixir of the Mongoose", -1, 0, -2, 0},
                         // test if quality stays/corrects at 50
-                        {"At the end of each day our system lowers both quality and sell-in for every item",
-                                "Elixir of the Mongoose", 10, 100, 9, 50},
+                        {"test", "Elixir of the Mongoose", 10, 100, 9, 50},
 
                         // Ragnaros
                         // test if neither sellin nor quality decreases or increases
-                        {"At the end of each day our system lowers both quality and sell-in for every item",
-                                "Sulfuras, Hand of Ragnaros", 0, 80, 0, 80},
+                        {"test", "Sulfuras, Hand of Ragnaros", 0, 80, 0, 80},
                         // test if quality and sellin stays/corrects at !80 and !0
-                        {"At the end of each day our system lowers both quality and sell-in for every item",
-                                "Sulfuras, Hand of Ragnaros", 45, 45, 0, 80},
+                        {"test", "Sulfuras, Hand of Ragnaros", 45, 45, 0, 80},
 
                         // BackstagePass:
-                        {"At the end of each day our system lowers both quality and sell-in for every item",
-                                "Backstage passes to a TAFKAL80ETC concert", 15, 20, 14, 21},
+                        // test if quality increases
+                        {"test", "Backstage passes to a TAFKAL80ETC concert", 15, 20, 14, 21},
                         // test backstagepass when date is expired
-                        {"At the end of each day our system lowers both quality and sell-in for every item",
-                                "Backstage passes to a TAFKAL80ETC concert", 0, 20, -1, 0},
+                        {"test", "Backstage passes to a TAFKAL80ETC concert", 0, 20, -1, 0},
                         // test backstagepass when date is 10 days away
-                        {"At the end of each day our system lowers both quality and sell-in for every item",
-                                "Backstage passes to a TAFKAL80ETC concert", 10, 20, 9, 22},
+                        {"test", "Backstage passes to a TAFKAL80ETC concert", 10, 20, 9, 22},
                         // test backstagepass when date is 5 days away
-                        {"At the end of each day our system lowers both quality and sell-in for every item",
-                                "Backstage passes to a TAFKAL80ETC concert", 5, 20, 4, 23},
+                        {"test", "Backstage passes to a TAFKAL80ETC concert", 5, 20, 4, 23},
                         // test backstagepass qualitry doesnt exceed 50 (and corrects it)
-                        {"At the end of each day our system lowers both quality and sell-in for every item",
-                                "Backstage passes to a TAFKAL80ETC concert", 5, 51, 4, 50},
+                        {"test", "Backstage passes to a TAFKAL80ETC concert", 5, 51, 4, 50},
 
                         // Conjured
-                        {"At the end of each day our system lowers both quality and sell-in for every item",
-                                "Conjured Mana Cake", 3, 6, 2, 4},
+                        // test if quality decreases by 2
+                        {"test", "Conjured Mana Cake", 3, 6, 2, 4},
                         // test if quality decreases by 4 at negative sellin
-                        {"At the end of each day our system lowers both quality and sell-in for every item",
-                                "Conjured Mana Cake", -10, 6, -11, 2},
+                        {"test", "Conjured Mana Cake", -10, 6, -11, 2},
                         // test if quality stays at 0 (and corrects it)
-                        {"At the end of each day our system lowers both quality and sell-in for every item",
-                                "Conjured Mana Cake", 3, -1, 2, 0},
+                        {"test", "Conjured Mana Cake", 3, -1, 2, 0},
 
                         // Vest
                         // test if quality stays at 0 (and corrects it)
-                        {"At the end of each day our system lowers both quality and sell-in for every item",
-                                "+5 Dexterity Vest", -1, -1, -2, 0},
+                        {"test", "+5 Dexterity Vest", -1, -1, -2, 0},
                         // test if quality corrects at >50
-                        {"At the end of each day our system lowers both quality and sell-in for every item",
-                                "+5 Dexterity Vest", 2, 500, 1, 50}
+                        {"test", "+5 Dexterity Vest", 2, 500, 1, 50}
 
-
-
-
-
-
-
-
-    }));
-
+                }));
         return data;
     }
 
